@@ -12,3 +12,8 @@ This code suite generates synthetic demographic datasets for testing and analysi
 
 **Julia_to_R_to_Julis.ipynb** – a brief demo illustrating how to run R code inside a Julia Jupyter notebook.
 RCall – an R‑Julia bridge that lets you embed R commands directly in Julia cells, enabling seamless data and function sharing between the two languages.
+
+
+
+
+.
